@@ -23,16 +23,16 @@ var radarChartOptions = {
 };
 
 //Load the data and Call function to draw the Radar chart
-d3.json("data.json", function(error, data){
+d3.json("data_temp.json", function(error, data){
   RadarChart(".radarChart", data, radarChartOptions);
 });
-
+/*
 setTimeout(function f() {
   d3.json("data2.json", function(error, data){
   RadarChart(".radarChart", data, radarChartOptions);
 });
 }  , 3000);
-
+*/
 var choosePlaylist = function(id) {
   alert("choose playlist " + id);
 }
