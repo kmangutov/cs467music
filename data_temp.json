@@ -41,7 +41,7 @@
 			{  
 				"reason":"tempo",
 				"device":"Cowboy Bebop - Tank (Main Theme)",
-				"value":137.964
+				"value":0
 			}
 		]
 	},
@@ -87,7 +87,7 @@
 			{  
 				"reason":"tempo",
 				"device":"Work",
-				"value":91.296
+				"value":0
 			}
 		]
 	},
@@ -133,7 +133,7 @@
 			{  
 				"reason":"tempo",
 				"device":"7 Years",
-				"value":119.992
+				"value":0
 			}
 		]
 	},
@@ -179,7 +179,7 @@
 			{  
 				"reason":"tempo",
 				"device":"I Took A Pill In Ibiza - Seeb Remix",
-				"value":102.000
+				"value":0
 			}
 		]
 	},
@@ -225,7 +225,7 @@
 			{  
 				"reason":"tempo",
 				"device":"Don't Let Me Down",
-				"value":159.803
+				"value":0
 			}
 		]
 	}
