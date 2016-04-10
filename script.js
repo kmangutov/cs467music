@@ -5,7 +5,7 @@ var margin = {top: 100, right: 100, bottom: 100, left: 100},
   height = Math.min(width, window.innerHeight - margin.top - margin.bottom - 20);
 
 var color = d3.scale.ordinal()
-  .range(["#EDC951","#CC333F","#00A0B0"]);
+  .range(["#D9B435","#F76D0C","#CC3241","#7C15B0","#4249A1"]);
   
 var radarChartOptions = {
   w: width,
