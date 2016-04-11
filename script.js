@@ -30,7 +30,7 @@ d3.json("playlist0.json", function(error, data){
 
 //ASSUME names are playlist1.json, playlist2.json, ...
 var choosePlaylist = function(id) {
-  $("div").removeClass()
+  $("div").removeClass("selected")
   d3.json("playlist" + id + ".json", function(error, data){
     RadarChart(".radarChart", data, radarChartOptions);
   });
