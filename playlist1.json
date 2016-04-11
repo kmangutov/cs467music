@@ -1,0 +1,227 @@
+[
+    {
+        "key": "Piano Sonata in C major, K. 545: I. Allegro",
+        "values": [
+            {
+                "device": "Piano Sonata in C major, K. 545: I. Allegro",
+                "reason": "danceability",
+                "value": 0.271
+            },
+            {
+                "device": "Piano Sonata in C major, K. 545: I. Allegro",
+                "reason": "energy",
+                "value": 0.267
+            },
+            {
+                "device": "Piano Sonata in C major, K. 545: I. Allegro",
+                "reason": "speechiness",
+                "value": 0.0299
+            },
+            {
+                "device": "Piano Sonata in C major, K. 545: I. Allegro",
+                "reason": "acousticness",
+                "value": 0.981
+            },
+            {
+                "device": "Piano Sonata in C major, K. 545: I. Allegro",
+                "reason": "instrumentalness",
+                "value": 0.887
+            },
+            {
+                "device": "Piano Sonata in C major, K. 545: I. Allegro",
+                "reason": "liveness",
+                "value": 0.0956
+            },
+            {
+                "device": "Piano Sonata in C major, K. 545: I. Allegro",
+                "reason": "valence",
+                "value": 0.613
+            },
+            {
+                "device": "Piano Sonata in C major, K. 545: I. Allegro",
+                "reason": "tempo",
+                "value": 0.658
+            }
+        ]
+    },
+    {
+        "key": "Symphony No. 4 in B-Flat Major, Op. 60: I. Adagio - Allegro vivace",
+        "values": [
+            {
+                "device": "Symphony No. 4 in B-Flat Major, Op. 60: I. Adagio - Allegro vivace",
+                "reason": "danceability",
+                "value": 0.315
+            },
+            {
+                "device": "Symphony No. 4 in B-Flat Major, Op. 60: I. Adagio - Allegro vivace",
+                "reason": "energy",
+                "value": 0.0663
+            },
+            {
+                "device": "Symphony No. 4 in B-Flat Major, Op. 60: I. Adagio - Allegro vivace",
+                "reason": "speechiness",
+                "value": 0.0399
+            },
+            {
+                "device": "Symphony No. 4 in B-Flat Major, Op. 60: I. Adagio - Allegro vivace",
+                "reason": "acousticness",
+                "value": 0.889
+            },
+            {
+                "device": "Symphony No. 4 in B-Flat Major, Op. 60: I. Adagio - Allegro vivace",
+                "reason": "instrumentalness",
+                "value": 0.245
+            },
+            {
+                "device": "Symphony No. 4 in B-Flat Major, Op. 60: I. Adagio - Allegro vivace",
+                "reason": "liveness",
+                "value": 0.0771
+            },
+            {
+                "device": "Symphony No. 4 in B-Flat Major, Op. 60: I. Adagio - Allegro vivace",
+                "reason": "valence",
+                "value": 0.132
+            },
+            {
+                "device": "Symphony No. 4 in B-Flat Major, Op. 60: I. Adagio - Allegro vivace",
+                "reason": "tempo",
+                "value": 0.597
+            }
+        ]
+    },
+    {
+        "key": "Symphony in C: Moderato alla breve",
+        "values": [
+            {
+                "device": "Symphony in C: Moderato alla breve",
+                "reason": "danceability",
+                "value": 0.359
+            },
+            {
+                "device": "Symphony in C: Moderato alla breve",
+                "reason": "energy",
+                "value": 0.0321
+            },
+            {
+                "device": "Symphony in C: Moderato alla breve",
+                "reason": "speechiness",
+                "value": 0.0424
+            },
+            {
+                "device": "Symphony in C: Moderato alla breve",
+                "reason": "acousticness",
+                "value": 0.963
+            },
+            {
+                "device": "Symphony in C: Moderato alla breve",
+                "reason": "instrumentalness",
+                "value": 0.752
+            },
+            {
+                "device": "Symphony in C: Moderato alla breve",
+                "reason": "liveness",
+                "value": 0.105
+            },
+            {
+                "device": "Symphony in C: Moderato alla breve",
+                "reason": "valence",
+                "value": 0.299
+            },
+            {
+                "device": "Symphony in C: Moderato alla breve",
+                "reason": "tempo",
+                "value": 0.67
+            }
+        ]
+    },
+    {
+        "key": "Piano Trio in E flat, H.XV No.10: 2. Presto",
+        "values": [
+            {
+                "device": "Piano Trio in E flat, H.XV No.10: 2. Presto",
+                "reason": "danceability",
+                "value": 0.39
+            },
+            {
+                "device": "Piano Trio in E flat, H.XV No.10: 2. Presto",
+                "reason": "energy",
+                "value": 0.229
+            },
+            {
+                "device": "Piano Trio in E flat, H.XV No.10: 2. Presto",
+                "reason": "speechiness",
+                "value": 0.039
+            },
+            {
+                "device": "Piano Trio in E flat, H.XV No.10: 2. Presto",
+                "reason": "acousticness",
+                "value": 0.979
+            },
+            {
+                "device": "Piano Trio in E flat, H.XV No.10: 2. Presto",
+                "reason": "instrumentalness",
+                "value": 0.914
+            },
+            {
+                "device": "Piano Trio in E flat, H.XV No.10: 2. Presto",
+                "reason": "liveness",
+                "value": 0.246
+            },
+            {
+                "device": "Piano Trio in E flat, H.XV No.10: 2. Presto",
+                "reason": "valence",
+                "value": 0.613
+            },
+            {
+                "device": "Piano Trio in E flat, H.XV No.10: 2. Presto",
+                "reason": "tempo",
+                "value": 0.39
+            }
+        ]
+    },
+    {
+        "key": "Symphony No.3 in A minor, Op.56 - \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
+        "values": [
+            {
+                "device": "Symphony No.3 in A minor, Op.56 - \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
+                "reason": "danceability",
+                "value": 0.326
+            },
+            {
+                "device": "Symphony No.3 in A minor, Op.56 - \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
+                "reason": "energy",
+                "value": 0.284
+            },
+            {
+                "device": "Symphony No.3 in A minor, Op.56 - \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
+                "reason": "speechiness",
+                "value": 0.0383
+            },
+            {
+                "device": "Symphony No.3 in A minor, Op.56 - \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
+                "reason": "acousticness",
+                "value": 0.902
+            },
+            {
+                "device": "Symphony No.3 in A minor, Op.56 - \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
+                "reason": "instrumentalness",
+                "value": 0.922
+            },
+            {
+                "device": "Symphony No.3 in A minor, Op.56 - \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
+                "reason": "liveness",
+                "value": 0.126
+            },
+            {
+                "device": "Symphony No.3 in A minor, Op.56 - \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
+                "reason": "valence",
+                "value": 0.21
+            },
+            {
+                "device": "Symphony No.3 in A minor, Op.56 - \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
+                "reason": "tempo",
+                "value": 0.549
+            }
+        ]
+    }
+]
