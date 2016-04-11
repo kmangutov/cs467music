@@ -1,0 +1,227 @@
+[
+    {
+        "key": "In The Middle", 
+        "values": [
+            {
+                "device": "In The Middle", 
+                "reason": "danceability", 
+                "value": 0.692
+            }, 
+            {
+                "device": "In The Middle", 
+                "reason": "energy", 
+                "value": 0.826
+            }, 
+            {
+                "device": "In The Middle", 
+                "reason": "speechiness", 
+                "value": 0.0679
+            }, 
+            {
+                "device": "In The Middle", 
+                "reason": "acousticness", 
+                "value": 0.0964
+            }, 
+            {
+                "device": "In The Middle", 
+                "reason": "instrumentalness", 
+                "value": 3.9e-05
+            }, 
+            {
+                "device": "In The Middle", 
+                "reason": "liveness", 
+                "value": 0.0708
+            }, 
+            {
+                "device": "In The Middle", 
+                "reason": "valence", 
+                "value": 0.632
+            }, 
+            {
+                "device": "In The Middle", 
+                "reason": "tempo", 
+                "value": 0.532
+            }
+        ]
+    }, 
+    {
+        "key": "Lonely Cities", 
+        "values": [
+            {
+                "device": "Lonely Cities", 
+                "reason": "danceability", 
+                "value": 0.646
+            }, 
+            {
+                "device": "Lonely Cities", 
+                "reason": "energy", 
+                "value": 0.791
+            }, 
+            {
+                "device": "Lonely Cities", 
+                "reason": "speechiness", 
+                "value": 0.0343
+            }, 
+            {
+                "device": "Lonely Cities", 
+                "reason": "acousticness", 
+                "value": 0.01
+            }, 
+            {
+                "device": "Lonely Cities", 
+                "reason": "instrumentalness", 
+                "value": 0.0165
+            }, 
+            {
+                "device": "Lonely Cities", 
+                "reason": "liveness", 
+                "value": 0.482
+            }, 
+            {
+                "device": "Lonely Cities", 
+                "reason": "valence", 
+                "value": 0.455
+            }, 
+            {
+                "device": "Lonely Cities", 
+                "reason": "tempo", 
+                "value": 0.536
+            }
+        ]
+    }, 
+    {
+        "key": "Lonely Cities", 
+        "values": [
+            {
+                "device": "Lonely Cities", 
+                "reason": "danceability", 
+                "value": 0.646
+            }, 
+            {
+                "device": "Lonely Cities", 
+                "reason": "energy", 
+                "value": 0.791
+            }, 
+            {
+                "device": "Lonely Cities", 
+                "reason": "speechiness", 
+                "value": 0.0343
+            }, 
+            {
+                "device": "Lonely Cities", 
+                "reason": "acousticness", 
+                "value": 0.01
+            }, 
+            {
+                "device": "Lonely Cities", 
+                "reason": "instrumentalness", 
+                "value": 0.0165
+            }, 
+            {
+                "device": "Lonely Cities", 
+                "reason": "liveness", 
+                "value": 0.482
+            }, 
+            {
+                "device": "Lonely Cities", 
+                "reason": "valence", 
+                "value": 0.455
+            }, 
+            {
+                "device": "Lonely Cities", 
+                "reason": "tempo", 
+                "value": 0.536
+            }
+        ]
+    }, 
+    {
+        "key": "Waking Up The Giants", 
+        "values": [
+            {
+                "device": "Waking Up The Giants", 
+                "reason": "danceability", 
+                "value": 0.585
+            }, 
+            {
+                "device": "Waking Up The Giants", 
+                "reason": "energy", 
+                "value": 0.618
+            }, 
+            {
+                "device": "Waking Up The Giants", 
+                "reason": "speechiness", 
+                "value": 0.0323
+            }, 
+            {
+                "device": "Waking Up The Giants", 
+                "reason": "acousticness", 
+                "value": 0.043
+            }, 
+            {
+                "device": "Waking Up The Giants", 
+                "reason": "instrumentalness", 
+                "value": 0.0116
+            }, 
+            {
+                "device": "Waking Up The Giants", 
+                "reason": "liveness", 
+                "value": 0.425
+            }, 
+            {
+                "device": "Waking Up The Giants", 
+                "reason": "valence", 
+                "value": 0.222
+            }, 
+            {
+                "device": "Waking Up The Giants", 
+                "reason": "tempo", 
+                "value": 0.582
+            }
+        ]
+    }, 
+    {
+        "key": "Chasing Shadows", 
+        "values": [
+            {
+                "device": "Chasing Shadows", 
+                "reason": "danceability", 
+                "value": 0.742
+            }, 
+            {
+                "device": "Chasing Shadows", 
+                "reason": "energy", 
+                "value": 0.575
+            }, 
+            {
+                "device": "Chasing Shadows", 
+                "reason": "speechiness", 
+                "value": 0.0487
+            }, 
+            {
+                "device": "Chasing Shadows", 
+                "reason": "acousticness", 
+                "value": 0.227
+            }, 
+            {
+                "device": "Chasing Shadows", 
+                "reason": "instrumentalness", 
+                "value": 1.77e-06
+            }, 
+            {
+                "device": "Chasing Shadows", 
+                "reason": "liveness", 
+                "value": 0.176
+            }, 
+            {
+                "device": "Chasing Shadows", 
+                "reason": "valence", 
+                "value": 0.591
+            }, 
+            {
+                "device": "Chasing Shadows", 
+                "reason": "tempo", 
+                "value": 0.348
+            }
+        ]
+    }
+]
