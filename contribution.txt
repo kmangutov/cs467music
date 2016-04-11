@@ -1,0 +1,5 @@
+Aadhya Gupta: Worked on animating the visualization, creating the json data to create the visualization and adding different colors to different songs
+Lin Zhu: Worked on the design of the website.
+Mariko Wakabayashi: Initiated slide presentation and created json data for visualization of one playlist
+Daniel Hsu: Worked on the back end. Wrote script to parse all the data using Spotify’s API and construct the JSON file using the data for use with our visualization. 
+Kirill Mangutov: Worked on the front end. 
