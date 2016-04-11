@@ -23,13 +23,14 @@ var radarChartOptions = {
 };
 
 //Load the data and Call function to draw the Radar chart
-d3.json("playlist1.json", function(error, data){
+d3.json("playlist0.json", function(error, data){
   RadarChart(".radarChart", data, radarChartOptions);
 });
 
 
 //ASSUME names are playlist1.json, playlist2.json, ...
 var choosePlaylist = function(id) {
+  $("div").removeClass()
   d3.json("playlist" + id + ".json", function(error, data){
     RadarChart(".radarChart", data, radarChartOptions);
   });
