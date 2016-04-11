@@ -1,0 +1,362 @@
+[
+    {
+        "key": "We Built Our Own World", 
+        "values": [
+            {
+                "device": "We Built Our Own World", 
+                "reason": "danceability", 
+                "value": 0.151
+            }, 
+            {
+                "device": "We Built Our Own World", 
+                "reason": "energy", 
+                "value": 0.0796
+            }, 
+            {
+                "device": "We Built Our Own World", 
+                "reason": "speechiness", 
+                "value": 0.0402
+            }, 
+            {
+                "device": "We Built Our Own World", 
+                "reason": "acousticness", 
+                "value": 0.0482
+            }, 
+            {
+                "device": "We Built Our Own World", 
+                "reason": "instrumentalness", 
+                "value": 0.871
+            }, 
+            {
+                "device": "We Built Our Own World", 
+                "reason": "liveness", 
+                "value": 0.655
+            }, 
+            {
+                "device": "We Built Our Own World", 
+                "reason": "valence", 
+                "value": 0.04
+            }, 
+            {
+                "device": "We Built Our Own World", 
+                "reason": "tempo", 
+                "value": 0.308
+            }
+        ]
+    }, 
+    {
+        "key": "Dream Is Collapsing", 
+        "values": [
+            {
+                "device": "Dream Is Collapsing", 
+                "reason": "danceability", 
+                "value": 0.518
+            }, 
+            {
+                "device": "Dream Is Collapsing", 
+                "reason": "energy", 
+                "value": 0.434
+            }, 
+            {
+                "device": "Dream Is Collapsing", 
+                "reason": "speechiness", 
+                "value": 0.0314
+            }, 
+            {
+                "device": "Dream Is Collapsing", 
+                "reason": "acousticness", 
+                "value": 0.0708
+            }, 
+            {
+                "device": "Dream Is Collapsing", 
+                "reason": "instrumentalness", 
+                "value": 0.748
+            }, 
+            {
+                "device": "Dream Is Collapsing", 
+                "reason": "liveness", 
+                "value": 0.421
+            }, 
+            {
+                "device": "Dream Is Collapsing", 
+                "reason": "valence", 
+                "value": 0.104
+            }, 
+            {
+                "device": "Dream Is Collapsing", 
+                "reason": "tempo", 
+                "value": 0.573
+            }
+        ]
+    }, 
+    {
+        "key": "Radical Notion", 
+        "values": [
+            {
+                "device": "Radical Notion", 
+                "reason": "danceability", 
+                "value": 0.176
+            }, 
+            {
+                "device": "Radical Notion", 
+                "reason": "energy", 
+                "value": 0.21
+            }, 
+            {
+                "device": "Radical Notion", 
+                "reason": "speechiness", 
+                "value": 0.047
+            }, 
+            {
+                "device": "Radical Notion", 
+                "reason": "acousticness", 
+                "value": 0.614
+            }, 
+            {
+                "device": "Radical Notion", 
+                "reason": "instrumentalness", 
+                "value": 0.85
+            }, 
+            {
+                "device": "Radical Notion", 
+                "reason": "liveness", 
+                "value": 0.131
+            }, 
+            {
+                "device": "Radical Notion", 
+                "reason": "valence", 
+                "value": 0.0378
+            }, 
+            {
+                "device": "Radical Notion", 
+                "reason": "tempo", 
+                "value": 0.764
+            }
+        ]
+    }, 
+    {
+        "key": "Old Souls", 
+        "values": [
+            {
+                "device": "Old Souls", 
+                "reason": "danceability", 
+                "value": 0.227
+            }, 
+            {
+                "device": "Old Souls", 
+                "reason": "energy", 
+                "value": 0.115
+            }, 
+            {
+                "device": "Old Souls", 
+                "reason": "speechiness", 
+                "value": 0.0394
+            }, 
+            {
+                "device": "Old Souls", 
+                "reason": "acousticness", 
+                "value": 0.914
+            }, 
+            {
+                "device": "Old Souls", 
+                "reason": "instrumentalness", 
+                "value": 0.942
+            }, 
+            {
+                "device": "Old Souls", 
+                "reason": "liveness", 
+                "value": 0.0804
+            }, 
+            {
+                "device": "Old Souls", 
+                "reason": "valence", 
+                "value": 0.0394
+            }, 
+            {
+                "device": "Old Souls", 
+                "reason": "tempo", 
+                "value": 0.425
+            }
+        ]
+    }, 
+    {
+        "key": "528491", 
+        "values": [
+            {
+                "device": "528491", 
+                "reason": "danceability", 
+                "value": 0.265
+            }, 
+            {
+                "device": "528491", 
+                "reason": "energy", 
+                "value": 0.277
+            }, 
+            {
+                "device": "528491", 
+                "reason": "speechiness", 
+                "value": 0.0355
+            }, 
+            {
+                "device": "528491", 
+                "reason": "acousticness", 
+                "value": 0.0145
+            }, 
+            {
+                "device": "528491", 
+                "reason": "instrumentalness", 
+                "value": 0.765
+            }, 
+            {
+                "device": "528491", 
+                "reason": "liveness", 
+                "value": 0.115
+            }, 
+            {
+                "device": "528491", 
+                "reason": "valence", 
+                "value": 0.0471
+            }, 
+            {
+                "device": "528491", 
+                "reason": "tempo", 
+                "value": 0.446
+            }
+        ]
+    }, 
+    {
+        "key": "Mombasa", 
+        "values": [
+            {
+                "device": "Mombasa", 
+                "reason": "danceability", 
+                "value": 0.506
+            }, 
+            {
+                "device": "Mombasa", 
+                "reason": "energy", 
+                "value": 0.848
+            }, 
+            {
+                "device": "Mombasa", 
+                "reason": "speechiness", 
+                "value": 0.0315
+            }, 
+            {
+                "device": "Mombasa", 
+                "reason": "acousticness", 
+                "value": 0.00232
+            }, 
+            {
+                "device": "Mombasa", 
+                "reason": "instrumentalness", 
+                "value": 0.758
+            }, 
+            {
+                "device": "Mombasa", 
+                "reason": "liveness", 
+                "value": 0.543
+            }, 
+            {
+                "device": "Mombasa", 
+                "reason": "valence", 
+                "value": 0.337
+            }, 
+            {
+                "device": "Mombasa", 
+                "reason": "tempo", 
+                "value": 0.659
+            }
+        ]
+    }, 
+    {
+        "key": "Time", 
+        "values": [
+            {
+                "device": "Time", 
+                "reason": "danceability", 
+                "value": 0.221
+            }, 
+            {
+                "device": "Time", 
+                "reason": "energy", 
+                "value": 0.0879
+            }, 
+            {
+                "device": "Time", 
+                "reason": "speechiness", 
+                "value": 0.0381
+            }, 
+            {
+                "device": "Time", 
+                "reason": "acousticness", 
+                "value": 0.155
+            }, 
+            {
+                "device": "Time", 
+                "reason": "instrumentalness", 
+                "value": 0.698
+            }, 
+            {
+                "device": "Time", 
+                "reason": "liveness", 
+                "value": 0.0869
+            }, 
+            {
+                "device": "Time", 
+                "reason": "valence", 
+                "value": 0.0396
+            }, 
+            {
+                "device": "Time", 
+                "reason": "tempo", 
+                "value": 0.576
+            }
+        ]
+    }, 
+    {
+        "key": "Paradox", 
+        "values": [
+            {
+                "device": "Paradox", 
+                "reason": "danceability", 
+                "value": 0.15
+            }, 
+            {
+                "device": "Paradox", 
+                "reason": "energy", 
+                "value": 0.111
+            }, 
+            {
+                "device": "Paradox", 
+                "reason": "speechiness", 
+                "value": 0.0462
+            }, 
+            {
+                "device": "Paradox", 
+                "reason": "acousticness", 
+                "value": 0.708
+            }, 
+            {
+                "device": "Paradox", 
+                "reason": "instrumentalness", 
+                "value": 0.868
+            }, 
+            {
+                "device": "Paradox", 
+                "reason": "liveness", 
+                "value": 0.0812
+            }, 
+            {
+                "device": "Paradox", 
+                "reason": "valence", 
+                "value": 0.0292
+            }, 
+            {
+                "device": "Paradox", 
+                "reason": "tempo", 
+                "value": 0.383
+            }
+        ]
+    }
+]

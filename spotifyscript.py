@@ -1,10 +1,10 @@
 import json
 import requests as rq
 
-OAuth = 'BQD7_lXq1b6LH1ldJYFIVELxWB1dYYHjtZsJRYyu3DoUDoJoSSEF2dqwnUzW6pxfWPbUTbWKsWC0kCFT-hxikfV34XCpa4Uakc5nnm-gDiY_LuG2waRC9jfhKSBhEbA2wDBRHCsQLvWLCu7pqt0BWTsaYU9rhv8'
+OAuth = 'BQBqT5Hp1zni3meAJZq4r75Y7VNOQVPvtaAUdEbSxAPD8PQSJFSDWSDJnYg5iVmIGf3uxrX_mBje9dfxO0iXsXBKAZXsMn3E9kIIb5mMg0cGvXpYTyvoGubOchZ3caXdMvOUSpjucISJKE8'
 
 input_file = 'songurls.txt'
-output_file = 'data_temp.json'
+output_file = 'playlist2.json'
 
 def scale_tempo(tempo):
     value = (tempo/220)
