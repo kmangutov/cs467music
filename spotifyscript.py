@@ -4,7 +4,7 @@ import requests as rq
 OAuth = 'BQBqT5Hp1zni3meAJZq4r75Y7VNOQVPvtaAUdEbSxAPD8PQSJFSDWSDJnYg5iVmIGf3uxrX_mBje9dfxO0iXsXBKAZXsMn3E9kIIb5mMg0cGvXpYTyvoGubOchZ3caXdMvOUSpjucISJKE8'
 
 input_file = 'songurls.txt'
-output_file = 'playlist2.json'
+output_file = 'playlist_try.json'
 
 def scale_tempo(tempo):
     value = (tempo/220)
